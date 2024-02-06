@@ -48,8 +48,7 @@ Remember, if you want content to show up on the webpage, it MUST be nested insid
 
 ## Code Along
 
-Open the `code-along.html` file and complete the tasks. As I write code, make sure you are writing along with me. 
-
+Open the ` ` file and complete the tasks. As I write code, make sure you are writing along with me. 
 ## Code Solo
 
 Next, open the `code-solo.html` file and complete the tasks. Again, as I write code, you should also be writing along with me.
